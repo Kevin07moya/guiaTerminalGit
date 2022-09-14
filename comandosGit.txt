@@ -1,2 +1,12 @@
 git init: crear un repocitorio
 git status: permito conocer en que area estan los cambios realizados 
+git add: atajos
+               .: agregar los archivos con un cambio en el proyecyo
+git commit: agregar lod archivos del staping areal al repositorio
+	  flats: 
+	  m: agregar un mensaje
+	  a: agregar archivos sin pasar por el staging area 
+git log:
+	   flats:
+	   -- oneline: muestra todos los commits de manera resumida
+	   -- graph: mustra el grafico del proyecto
